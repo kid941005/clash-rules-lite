@@ -1,0 +1,45 @@
+payload:
+ # Apple LBS
+  - DOMAIN-SUFFIX,iphone-ld.apple.com
+  - DOMAIN-SUFFIX,lcdn-locator.apple.com
+  - DOMAIN-SUFFIX,lcdn-registration.apple.com
+  - DOMAIN-SUFFIX,push.apple.com
+#下载
+  - DOMAIN-KEYWORD,aria2
+  - DOMAIN-KEYWORD,xunlei
+  - DOMAIN-KEYWORD,yunpan
+  - DOMAIN-KEYWORD,Thunder
+  - DOMAIN-KEYWORD,XLLiveUD
+  - DOMAIN-KEYWORD,announce
+  - DOMAIN-KEYWORD,torrent
+  - DOMAIN-KEYWORD,tracker
+  - DOMAIN-KEYWORD,smtp
+  - DOMAIN-KEYWORD,qbittorrent
+  - DOMAIN-KEYWORD,transmission
+  - DOMAIN,t.audiences.me
+  - DOMAIN,on.springsunday.net
+  - DOMAIN-KEYWORD,announce.php?passkey
+#群晖代理
+  - DOMAIN-SUFFIX,digitalocean.com
+  - DOMAIN,checkip.synology.com
+  - DOMAIN,checkipv6.synology.com
+  - DOMAIN,checkport.synology.com
+  - DOMAIN-KEYWORD,synology
+  - DOMAIN-KEYWORD,kid1412
+  - DOMAIN-SUFFIX,kid1412.top
+  - DOMAIN-SUFFIX,slack.com
+  - DOMAIN,qyapi.weixin.qq.com
+  - DOMAIN-SUFFIX,smzdm.com
+  - DOMAIN-SUFFIX,test-ipv6.com
+  - DOMAIN-SUFFIX,v6t.ipip.net
+  - DOMAIN-SUFFIX,ipw.cn
+  - DOMAIN-KEYWORD,m3u
+  - DOMAIN-SUFFIX,fanmingming.com
+#其他
+  - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,tailscale.io
+  - DOMAIN-SUFFIX,tailscale.com
+  - DOMAIN,clash.razord.top
+  - DOMAIN,yacd.haishan.me
+  - DOMAIN,clash.razord.top
+  - DOMAIN,yacd.haishan.me

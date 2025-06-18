@@ -1,0 +1,60 @@
+payload:
+#nas 影音服务
+  - DOMAIN-KEYWORD,tmdb
+  - DOMAIN-KEYWORD,themoviedb
+  - DOMAIN-KEYWORD,fanart
+  - DOMAIN-KEYWORD,thetvdb
+  - DOMAIN,api.themoviedb.org
+  - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-SUFFIX,tmdb.org
+  - DOMAIN-SUFFIX,thetvdb.com
+  - DOMAIN-SUFFIX,fanart.tv
+  - DOMAIN-SUFFIX,subtitle.best
+  - DOMAIN-SUFFIX,zimuku.org
+  - DOMAIN-SUFFIX,subhd.tv
+  - DOMAIN-SUFFIX,a4k.net
+  - DOMAIN-SUFFIX,assrt.net
+  - DOMAIN-SUFFIX,shooter.cn
+  - DOMAIN-SUFFIX,sandai.net
+  - DOMAIN-SUFFIX,opensubtitles.org
+  - DOMAIN-SUFFIX,movie-pilot.org
+  - DOMAIN,api.telegram.org
+#plex
+  - DOMAIN-SUFFIX,plex.tv
+  - DOMAIN,metadata.provider.plex.tv
+  - DOMAIN,app.plex.tv
+  - DOMAIN,v4.plex.tv
+#强国
+  - DOMAIN-SUFFIX,v2raya.org
+  - DOMAIN-KEYWORD,onesy
+  - DOMAIN-SUFFIX,wly312.buzz
+  - DOMAIN-SUFFIX,wly311.buzz
+  - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,onesy.top
+  - DOMAIN-SUFFIX,gw-yundong.cc
+  - DOMAIN-SUFFIX,nanoport.xyz
+  - DOMAIN-SUFFIX,一元机场.com
+  - DOMAIN-SUFFIX,bigme.pro
+#工具
+  - DOMAIN-KEYWORD,bing
+  - DOMAIN-KEYWORD,docker
+  - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN,registry.hub.docker.com
+  - DOMAIN,hub.docker.com
+  - DOMAIN-KEYWORD,z-library
+  - DOMAIN-SUFFIX,z-library.se
+  - DOMAIN-SUFFIX,golang.org
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,4550.fun
+#其他
+  - DOMAIN-KEYWORD,notion
+  - DOMAIN-SUFFIX,qichiyu.com
+  - DOMAIN-SUFFIX,producthunt.com
+  - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-KEYWORD,wiki
+  - DOMAIN-SUFFIX,v2ex.com
+  #apple 
+  - DOMAIN-SUFFIX,apple-relay.cloudflare.com
+  - DOMAIN-KEYWORD,apple-relay
+  - DOMAIN,apple-relay.apple.com
