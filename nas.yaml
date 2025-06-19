@@ -58,3 +58,6 @@ payload:
   - DOMAIN-SUFFIX,apple-relay.cloudflare.com
   - DOMAIN-KEYWORD,apple-relay
   - DOMAIN,apple-relay.apple.com
+  #搜索引擎
+  - DOMAIN-KEYWORD,wikidata
+  - DOMAIN-KEYWORD,wikipedia
