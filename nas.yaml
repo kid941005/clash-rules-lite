@@ -1,5 +1,5 @@
 payload:
-#nas 影音服务
+# nas 影音服务
   - DOMAIN-KEYWORD,tmdb
   - DOMAIN-KEYWORD,themoviedb
   - DOMAIN-KEYWORD,fanart
@@ -19,12 +19,12 @@ payload:
   - DOMAIN-SUFFIX,opensubtitles.org
   - DOMAIN-SUFFIX,movie-pilot.org
   - DOMAIN,api.telegram.org
-#plex
+  # plex
   - DOMAIN-SUFFIX,plex.tv
   - DOMAIN,metadata.provider.plex.tv
   - DOMAIN,app.plex.tv
   - DOMAIN,v4.plex.tv
-#强国
+  # 强国
   - DOMAIN-SUFFIX,v2raya.org
   - DOMAIN-KEYWORD,onesy
   - DOMAIN-SUFFIX,wly312.buzz
@@ -35,7 +35,7 @@ payload:
   - DOMAIN-SUFFIX,nanoport.xyz
   - DOMAIN-SUFFIX,一元机场.com
   - DOMAIN-SUFFIX,bigme.pro
-#工具
+  # 工具
   - DOMAIN-KEYWORD,bing
   - DOMAIN-KEYWORD,docker
   - DOMAIN-SUFFIX,docker.io
@@ -47,7 +47,7 @@ payload:
   - DOMAIN-SUFFIX,golang.org
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,4550.fun
-#其他
+  # 其他
   - DOMAIN-KEYWORD,notion
   - DOMAIN-SUFFIX,qichiyu.com
   - DOMAIN-SUFFIX,producthunt.com
@@ -58,12 +58,44 @@ payload:
   - DOMAIN-SUFFIX,apple-relay.cloudflare.com
   - DOMAIN-KEYWORD,apple-relay
   - DOMAIN,apple-relay.apple.com
-  #搜索引擎
+  # 搜索引擎
   - DOMAIN-KEYWORD,wikidata
   - DOMAIN-KEYWORD,wikipedia
-  #谷歌
+  # 谷歌
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
   - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN,v2rayse.com
+  # github
+  - DOMAIN-SUFFIX,atom.io
+  - DOMAIN-SUFFIX,dependabot.com
+  - DOMAIN-SUFFIX,ghcr.io
+  - DOMAIN-SUFFIX,git.io
+  - DOMAIN-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
+  - DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
+  - DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
+  - DOMAIN-SUFFIX,github.blog
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,github.community
+  - DOMAIN-SUFFIX,github.dev
+  - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,githubapp.com
+  - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,githubcopilot.com
+  - DOMAIN-SUFFIX,githubhackathon.com
+  - DOMAIN-SUFFIX,githubnext.com
+  - DOMAIN-SUFFIX,githubpreview.dev
+  - DOMAIN-SUFFIX,githubstatus.com
+  - DOMAIN-SUFFIX,githubuniverse.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,myoctocat.com
+  - DOMAIN-SUFFIX,npm.community
+  - DOMAIN-SUFFIX,npmjs.com
+  - DOMAIN-SUFFIX,npmjs.org
+  - DOMAIN-SUFFIX,opensource.guide
+  - DOMAIN-SUFFIX,rawgit.com
+  - DOMAIN-SUFFIX,rawgithub.com
+  - DOMAIN-SUFFIX,repo.new
+  - DOMAIN-SUFFIX,thegithubshop.com
+  - DOMAIN-KEYWORD,github
